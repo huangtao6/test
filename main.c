@@ -66,6 +66,13 @@ int main(void)
 	{
 	}
 }
+
+hellifdsgfsokdgnasfjap
+fsgfiaofanfakngfkfajfa
+faohfiajfagfoakgfpa
+fajfaigjiafjiadhf
+
+
 /*
 	这张图片中的文字内容如下：
 
@@ -100,3 +107,5 @@ int main(void)
 		相顾无言，惟有泪千行。
 		每晚灯火阑珊处，夜难寐，加班狂。
 */
+
+
