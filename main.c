@@ -66,13 +66,6 @@ int main(void)
 	{
 	}
 }
-
-hellifdsgfsokdgnasfjap
-fsgfiaofanfakngfkfajfa
-faohfiajfagfoakgfpa
-fajfaigjiafjiadhf
-
-
 /*
 	这张图片中的文字内容如下：
 
@@ -109,3 +102,4 @@ fajfaigjiafjiadhf
 */
 
 
+// 在远程仓库中修改文件，验证冲突问题，如何解决冲突66666666666666666666666
